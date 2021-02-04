@@ -1,0 +1,9 @@
+{
+    "title": "X-COM: From the Ashes",
+    "baseRepo": "MeridianOXC/OpenXcom",
+    "baseBranch": "oxce-plus",
+    "basePath": ["bin/standard/xcom1", "bin/common"],
+    "modRepo": "723Studio/X-Com-From-the-Ashes",
+    "contactURL": "https://discord.gg/epmtzH9",
+    "contactLabel": "FtA Discord"
+}
